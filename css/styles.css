@@ -1,0 +1,51 @@
+body{
+    background-color: #F6F4EB;
+}
+
+h1{
+    color: black;
+    font-size: 36px;
+}
+.p_description{
+    font-size: 18px;
+}
+.h3_experience{
+    color:#4682A9;
+}
+
+.h3_education{
+    color:#4682A9;
+}
+
+.h3_publications{
+    color:#4682A9;
+
+}
+
+.h3_keywords{
+    color:#4682A9;
+}
+
+.h4_keywords{
+    color:#1D267D;
+    font-weight:500;
+    font-style:italic;
+    font-size:18px;
+}
+
+.main_img{
+    border-radius: 0%;
+    width:100px;
+}
+
+.journal_name{
+    text-align: center;
+}
+
+.authorship{
+    text-align: center;
+}
+
+.table_publication{
+    font-size: 16px;
+}
